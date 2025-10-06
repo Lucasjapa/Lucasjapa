@@ -7,7 +7,6 @@
 
 </div>
 
-<hr>
 
 <div style="display: inline">
   <img align="center" alt="HTML5" width="90rem" heigth="8000000rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
