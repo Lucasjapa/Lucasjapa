@@ -1,16 +1,37 @@
-## Olá!! Eu sou Lucas Cavalcante
+# Olá! Eu sou o Lucas  
 
-<div>
-  <a href="https://github.com/Lucasjapa" />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=Lucasjapa&show_icons=true&&theme=highcontrast&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasjapa&layout=compact&langs_count=16&theme=highcontrast" />
+Sou desenvolvedor Full Stack com foco em construir aplicações completas, desde o backend robusto até interfaces modernas e eficientes.
+No backend, utilizo Java e Spring Boot para desenvolver APIs rápidas, seguras e escaláveis.
+No frontend, trabalho com interfaces responsivas, intuitivas e de alta performance.
+Estou sempre buscando evoluir, aprender novas tecnologias e entregar soluções que realmente fazem diferença.
 
+## 🚀 Tecnologias e Ferramentas
+
+### **Backend**
+- Java • Spring Boot • Spring Data JPA  
+- Spring Security • Hibernate  
+- Maven • Gradle
+
+### **Banco de Dados**
+- PostgreSQL • Oracle • MongoDB  
+- Liquibase
+
+### **DevOps & Cloud**
+- Docker
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Lucasjapa&show_icons=true&theme=highcontrast&count_private=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasjapa&layout=compact&theme=highcontrast" />
 </div>
 
+## Contato
+- **LinkedIn:**
 
-<div style="display: inline">
-  <img align="center" alt="HTML5" width="90rem" heigth="8000000rem" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="CSS3" width="80rem" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="Java" width="58rem" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img align="center" alt="Spring" width="100rem" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-</div>
+## Sobre mim
+
+Sou apaixonado por backend, arquitetura e otimização de sistemas.  
+Adoro resolver problemas complexos, estudar novas tecnologias e escrever código limpo e sustentável.  
+Sempre aberto a desafios, contribuições e novas oportunidades!
+
